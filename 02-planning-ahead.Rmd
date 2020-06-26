@@ -107,7 +107,7 @@ We recommend to define two kind of developers: a unique person (or maybe two) to
 
 #### A person in charge
 
-The person in charge of the development will have an complete view of the entire project and manage the team so that all developers implement features that fit together.
+The person in charge of the development will have a complete view of the entire project and manage the team so that all developers implement features that fit together.
 
 With complex applications, it can be hard to have the complete understanding of what the entire app is doing.
 Most of the time, it is not necessary for all developers to have this complete picture.
